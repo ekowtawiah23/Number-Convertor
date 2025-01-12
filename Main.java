@@ -5,7 +5,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
-            System.out.println("\n--- Number System Converter ---");
+            System.out.println("\n Number System Converter ");
             System.out.println("1. Binary to Other Systems");
             System.out.println("2. Decimal to Other Systems");
             System.out.println("3. Octal to Other Systems");
